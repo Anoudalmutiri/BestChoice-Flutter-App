@@ -50,3 +50,17 @@ To run the project locally:
 ## Developer
 
 Developed by **Anoud Almutiri** as a mobile application project using Flutter.
+
+## App Screenshots
+
+### Login
+<img src="login.png" width="300">
+
+### Home
+<img src="home1.png" width="300">
+
+### Recommendations
+<img src="recomendation.png" width="300">
+
+### Profile
+<img src="profile.png" width="300">
